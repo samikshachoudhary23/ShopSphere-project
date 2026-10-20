@@ -1,24 +1,9 @@
 # ShopSphere - Java Web Application
 
-## About This Repository
-This repository contains Java lab experiments and the ShopSphere web application developed as part of third-year academic work.
+## About the Project
+ShopSphere is a Java-based web application developed as part of academic project work.
 
-## Repository Contents
-
-### 1. Java Lab Experiments
-This section contains Java lab experiments organized into separate folders.
-
-- Experiment 1
-- Experiment 2
-- Experiment 3
-- More experiments will be added as required.
-
-### 2. ShopSphere Project
-**Project Name:** ShopSphere
-
-**Description:** ShopSphere is a Java-based web application.
-
-**Technologies Used:**
+## Technologies Used
 - Java
 - Java Servlets
 - JSP (JavaServer Pages)
@@ -27,12 +12,20 @@ This section contains Java lab experiments organized into separate folders.
 - Apache Tomcat
 - Maven
 
-## How to Run the Project
-1. Install the required JDK, Maven, Apache Tomcat, and MySQL.
+## Features
+- Java-based web application
+- Database connectivity using JDBC and MySQL
+- Server-side processing using Servlets and JSP
+
+## How to Run
+1. Install JDK, Maven, Apache Tomcat, and MySQL.
 2. Configure the database connection.
 3. Build the project using Maven.
 4. Deploy the generated WAR file to Tomcat.
-5. Run the application in a web browser.
+5. Open the application in your browser.
+
+## Project Structure
+The repository contains the project's source code, configuration files, and related resources.
 
 ## Purpose
-This repository is maintained for Java lab experiments, project development, and academic evaluation.
+This project was developed for learning and demonstrating Java web application development.
